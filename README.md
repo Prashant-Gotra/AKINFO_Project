@@ -1,4 +1,4 @@
-# Akinfo project
+# AKINFO Project
 # Created By Prashant Gotra
 
 Steps to follow :-
