@@ -1,5 +1,5 @@
 # Akinfo project
-# Created By Prayas Singh
+# Created By Prashant Gotra
 
 Steps to follow :-
 1: install Xammp for Apache and MySql Server
@@ -12,7 +12,3 @@ Steps to follow :-
 8: run the Akinfo site by "http://lacalhost/login_v1/login.php"
 
 Go through all the code and Run it on updated Browser 
-
-Thanks 
-Prayas Singh
-Project developer
